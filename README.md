@@ -36,7 +36,3 @@ These projects are for learning and educational purposes only. **Do not use scri
 
 ## 
 This README is AI generated, because i am lazy
-
-## License
-
-[MIT License](LICENSE)
