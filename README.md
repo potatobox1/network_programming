@@ -13,6 +13,12 @@ A basic Python script that simulates a Denial-of-Service (DoS) attack for educat
 ### 2. Mailing Script
 A Python script to send emails using SMTP with support for attachments and environment variable configuration for credentials.
 
+### 3. Port Scanner
+A Python script to scan open ports for a particular service. Usefull for identifying security vulnerabilities
+
+### 4. TCP ChatRoom
+A simple TCP chatroom on local host to send messages to different connected users.
+
 ---
 
 ## Getting Started
@@ -30,7 +36,7 @@ A Python script to send emails using SMTP with support for attachments and envir
 
 ## Disclaimer
 
-These projects are for learning and educational purposes only. **Do not use scripts like the DoS script maliciously or against servers without permission.**
+These projects are for learning and educational purposes only. **Do not use scripts like the DoS script or Port Scanner maliciously or against servers without permission.**
 
 ---
 
